@@ -46,10 +46,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/csv2api.git"
+    "url": "https://github.com/jai0651/csv2api.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/csv2api/issues"
+    "url": "https://github.com/jai0651/csv2api/issues"
   },
-  "homepage": "https://github.com/yourusername/csv2api#readme"
+  "homepage": "https://github.com/jai0651/csv2api#readme",
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
