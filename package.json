@@ -28,7 +28,7 @@
     "filter",
     "search"
   ],
-  "author": "Your Name",
+  "author": "Jai Shankar",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
