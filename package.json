@@ -1,0 +1,55 @@
+{
+  "name": "csv2api",
+  "version": "1.0.0",
+  "description": "Turn any CSV file into a REST API server - CLI tool and Node.js library",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "csv2api": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "dev": "node --watch src/cli.js",
+    "test": "node --test src/**/*.test.js",
+    "test:basic": "node test-basic.js",
+    "test:library": "node test-library.js",
+    "demo": "node demo.js",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "keywords": [
+    "csv",
+    "api",
+    "rest",
+    "cli",
+    "server",
+    "data",
+    "query",
+    "filter",
+    "search"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "csv-parser": "^3.0.0",
+    "chokidar": "^3.5.3",
+    "cors": "^2.8.5",
+    "commander": "^11.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/csv2api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/csv2api/issues"
+  },
+  "homepage": "https://github.com/yourusername/csv2api#readme"
+}

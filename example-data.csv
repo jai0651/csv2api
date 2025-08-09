@@ -1,0 +1,16 @@
+id,name,email,age,city,occupation,salary,department,hire_date
+1,John Smith,john.smith@email.com,32,New York,Software Engineer,85000,Engineering,2020-03-15
+2,Sarah Johnson,sarah.j@email.com,28,San Francisco,Product Manager,95000,Product,2019-07-22
+3,Michael Brown,mike.brown@email.com,35,Chicago,Data Scientist,90000,Data Science,2018-11-10
+4,Emily Davis,emily.davis@email.com,26,Boston,UX Designer,75000,Design,2021-01-08
+5,David Wilson,david.w@email.com,31,Seattle,DevOps Engineer,88000,Engineering,2020-09-14
+6,Lisa Anderson,lisa.a@email.com,29,Austin,Marketing Specialist,70000,Marketing,2021-03-20
+7,Robert Taylor,rob.taylor@email.com,33,Denver,Sales Representative,65000,Sales,2019-05-12
+8,Jennifer Lee,jennifer.lee@email.com,27,Portland,Content Writer,60000,Marketing,2021-06-01
+9,Christopher Garcia,chris.garcia@email.com,34,Miami,QA Engineer,78000,Engineering,2020-12-03
+10,Amanda Martinez,amanda.m@email.com,25,Atlanta,HR Coordinator,55000,Human Resources,2021-08-15
+11,James Rodriguez,james.r@email.com,36,Las Vegas,Financial Analyst,82000,Finance,2018-08-28
+12,Michelle White,michelle.w@email.com,30,Phoenix,Project Manager,87000,Operations,2020-02-10
+13,Daniel Thompson,dan.t@email.com,28,Dallas,Business Analyst,72000,Strategy,2021-04-05
+14,Jessica Garcia,jessica.g@email.com,26,San Diego,Customer Success,68000,Support,2021-07-12
+15,Kevin Martinez,kevin.m@email.com,32,Orlando,Network Engineer,81000,IT,2019-10-18
